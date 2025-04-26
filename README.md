@@ -1,16 +1,20 @@
 # Hi there, I'm João 👋
 
-Welcome to my GitHub profile! I'm passionate about **software engineering**, **distributed systems**, and **cloud computing**.  
-I love building projects, learning new technologies, and collaborating on exciting ideas! 🚀
+Welcome to my GitHub! I'm passionate about software development, with a special focus on backend engineering, distributed systems, and cloud computing.
+I love creating projects to learn new technologies, explore new concepts, and improve my skills along the way! 🚀
+Thanks for stopping by — feel free to check out some of my projects below! 👇
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Languages
 
-- **Languages:** JavaScript | Python | Java | C++
-- **Frameworks:** Node.js | Express | React | Docker
-- **Databases:** SQL Server | MySQL | MongoDB | Redis
-- **Others:** Git | Linux | REST APIs | gRPC
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaocccosta&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+- **Languages:** Java | Python
+- **Databases:** SQL Server | MySQL
+- **Others:** Git | Docker
 
 ---
 
