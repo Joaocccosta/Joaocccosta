@@ -26,9 +26,7 @@ Thanks for stopping by — feel free to check out some of my projects below! �
 </p>
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaocccosta&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+
 ## 🚀 Projects
 
 
@@ -36,10 +34,5 @@ Thanks for stopping by — feel free to check out some of my projects below! �
 
 ## 📫 Contact Me
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
-
----
-
-> *"Strive not to be a success, but rather to be of value."* – Albert Einstein
+- 📧 Email: joao.diogo.costa@hotmail.com
+- 💼 LinkedIn: [Joao Costa](https://www.linkedin.com/in/joaodcosta/)
