@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there, I'm João 👋
 
-<!--
-**Joaocccosta/Joaocccosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about **software engineering**, **distributed systems**, and **cloud computing**.  
+I love building projects, learning new technologies, and collaborating on exciting ideas! 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- **Languages:** JavaScript | Python | Java | C++
+- **Frameworks:** Node.js | Express | React | Docker
+- **Databases:** SQL Server | MySQL | MongoDB | Redis
+- **Others:** Git | Linux | REST APIs | gRPC
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joaocccosta&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Joaocccosta&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaocccosta&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+## 🚀 Projects
+
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: your.email@example.com
+- 💼 LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)
+- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+
+---
+
+> *"Strive not to be a success, but rather to be of value."* – Albert Einstein
